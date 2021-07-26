@@ -2,4 +2,8 @@ This is some text.
 Can't you think of a better text???
 Nope.. this is all my tired brain could produce tonight.
 Well... good luck with it.
+<<<<<<< HEAD
 Another local change.
+=======
+Another remote change.
+>>>>>>> c0832051481231c92af4e3b565252890f2f61769
