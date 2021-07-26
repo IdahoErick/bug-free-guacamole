@@ -1,4 +1,8 @@
 This is some text.
 Can't you think of a better text???
 Nope.. this is all my tired brain could produce tonight.
+<<<<<<< Updated upstream
 Well... good luck with it (remote).
+=======
+Well... good luck with it (local).
+>>>>>>> Stashed changes
